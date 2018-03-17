@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\bin\Debug\FilterLogicNUnit.Tests.dll
+C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\bin\Debug\FilterLogicNUnit.Tests.pdb
+C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\bin\Debug\nunit.framework.dll
+C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\bin\Debug\nunit.framework.xml
+C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.csproj.CopyComplete
+C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.dll
+C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.pdb
+C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\bin\Debug\Filter.dll
+C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\bin\Debug\Filter.pdb
