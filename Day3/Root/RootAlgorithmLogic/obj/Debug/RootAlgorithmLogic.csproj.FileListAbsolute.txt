@@ -1,0 +1,6 @@
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgorithmLogic\bin\Debug\RootAlgorithmLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgorithmLogic\bin\Debug\RootAlgorithmLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgorithmLogic\obj\Debug\RootAlgorithmLogic.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgorithmLogic\obj\Debug\RootAlgorithmLogic.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgorithmLogic\obj\Debug\RootAlgorithmLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgorithmLogic\obj\Debug\RootAlgorithmLogic.pdb

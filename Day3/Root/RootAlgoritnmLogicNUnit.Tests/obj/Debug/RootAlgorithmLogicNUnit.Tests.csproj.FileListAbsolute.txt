@@ -1,0 +1,11 @@
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgoritnmLogicNUnit.Tests\bin\Debug\RootAlgoritnmLogicNUnit.Tests.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgoritnmLogicNUnit.Tests\bin\Debug\RootAlgoritnmLogicNUnit.Tests.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgoritnmLogicNUnit.Tests\bin\Debug\nunit.framework.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgoritnmLogicNUnit.Tests\bin\Debug\RootAlgorithmLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgoritnmLogicNUnit.Tests\bin\Debug\RootAlgorithmLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgoritnmLogicNUnit.Tests\bin\Debug\nunit.framework.xml
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgoritnmLogicNUnit.Tests\obj\Debug\RootAlgorithmLogicNUnit.Tests.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgoritnmLogicNUnit.Tests\obj\Debug\RootAlgorithmLogicNUnit.Tests.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgoritnmLogicNUnit.Tests\obj\Debug\RootAlgorithmLogicNUnit.Tests.csproj.CopyComplete
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgoritnmLogicNUnit.Tests\obj\Debug\RootAlgoritnmLogicNUnit.Tests.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\Day3\Root\RootAlgoritnmLogicNUnit.Tests\obj\Debug\RootAlgoritnmLogicNUnit.Tests.pdb
