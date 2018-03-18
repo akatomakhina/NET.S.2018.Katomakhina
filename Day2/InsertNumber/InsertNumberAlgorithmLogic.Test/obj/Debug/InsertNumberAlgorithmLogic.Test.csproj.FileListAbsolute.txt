@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\bin\Debug\InsertNumberAlgorithmLogic.Test.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\bin\Debug\InsertNumberAlgorithmLogic.Test.pdb
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\bin\Debug\InsertNumberAlgorithmLogic.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\bin\Debug\InsertNumberAlgorithmLogic.pdb
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\obj\Debug\InsertNumberAlgorithmLogic.Test.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\obj\Debug\InsertNumberAlgorithmLogic.Test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\obj\Debug\InsertNumberAlgorithmLogic.Test.csproj.CopyComplete
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\obj\Debug\InsertNumberAlgorithmLogic.Test.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic.Test\obj\Debug\InsertNumberAlgorithmLogic.Test.pdb

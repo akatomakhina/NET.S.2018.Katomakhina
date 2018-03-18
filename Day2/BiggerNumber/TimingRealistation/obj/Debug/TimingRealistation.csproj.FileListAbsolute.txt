@@ -1,0 +1,10 @@
+E:\.NET.Training\NET.S.2018.Katomakhina\Day2\BiggerNumber\TimingRealistation\bin\Debug\TimingRealistation.exe.config
+E:\.NET.Training\NET.S.2018.Katomakhina\Day2\BiggerNumber\TimingRealistation\bin\Debug\TimingRealistation.exe
+E:\.NET.Training\NET.S.2018.Katomakhina\Day2\BiggerNumber\TimingRealistation\bin\Debug\TimingRealistation.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\Day2\BiggerNumber\TimingRealistation\bin\Debug\BiggerNumberLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\Day2\BiggerNumber\TimingRealistation\bin\Debug\BiggerNumberLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\Day2\BiggerNumber\TimingRealistation\obj\Debug\TimingRealistation.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\Day2\BiggerNumber\TimingRealistation\obj\Debug\TimingRealistation.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\Day2\BiggerNumber\TimingRealistation\obj\Debug\TimingRealistation.csproj.CopyComplete
+E:\.NET.Training\NET.S.2018.Katomakhina\Day2\BiggerNumber\TimingRealistation\obj\Debug\TimingRealistation.exe
+E:\.NET.Training\NET.S.2018.Katomakhina\Day2\BiggerNumber\TimingRealistation\obj\Debug\TimingRealistation.pdb
