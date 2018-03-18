@@ -44,6 +44,24 @@ namespace FilterLogic.Tests
         }
 
         [TestMethod]
+        [DataSource(
+            "Microsoft.VisualStudio.TestTools.DataSource.XML",
+            "|DataDirectory|\\ArrayForFilter.xml",
+            "TestCase",
+            DataAccessMethod.Sequential)]
+        [DeploymentItem("FilterLogic.Tests\\ArrayForFilter.xml")]
+        public void FilterDigit_FilterXML()
+        {
+            int[] array = Array.ConvertAll(Convert.ToString(TestContext.DataRow["Actual"]).Split(' '), int.Parse);
+            int[] expected = Array.ConvertAll(Convert.ToString(TestContext.DataRow["Expected"]).Split(' '), int.Parse);
+            var filter = Convert.ToInt32(TestContext.DataRow["Filter"]);
+
+            int[] actual = listFilter.FilterDigit(array, filter);
+
+            CollectionAssert.AreEquivalent(expected, actual);
+        }
+
+        [TestMethod]
         public void FilterDigit_ArrayFilter()
         {
             int[] expected = new int[]{3, -13, 33, -37, -23, 334};
