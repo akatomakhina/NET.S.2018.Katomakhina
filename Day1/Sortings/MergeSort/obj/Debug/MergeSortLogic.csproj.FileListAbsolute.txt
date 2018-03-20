@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\Sortings\MergeSort\bin\Debug\MergeSort.dll
-C:\Users\user\source\repos\Sortings\MergeSort\bin\Debug\MergeSort.pdb
-C:\Users\user\source\repos\Sortings\MergeSort\obj\Debug\MergeSortLogic.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\Sortings\MergeSort\obj\Debug\MergeSort.dll
-C:\Users\user\source\repos\Sortings\MergeSort\obj\Debug\MergeSort.pdb
-C:\Users\user\source\repos\Sortings\MergeSort\obj\Debug\MergeSortLogic.csprojResolveAssemblyReference.cache

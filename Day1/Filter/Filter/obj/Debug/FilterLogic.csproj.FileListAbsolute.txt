@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\Filter\Filter\bin\Debug\Filter.dll
-C:\Users\user\source\repos\Filter\Filter\bin\Debug\Filter.pdb
-C:\Users\user\source\repos\Filter\Filter\obj\Debug\FilterLogic.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\Filter\Filter\obj\Debug\Filter.dll
-C:\Users\user\source\repos\Filter\Filter\obj\Debug\Filter.pdb
-C:\Users\user\source\repos\Filter\Filter\obj\Debug\FilterLogic.csprojResolveAssemblyReference.cache

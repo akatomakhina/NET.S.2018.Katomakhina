@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\Sortings\QuickSort\bin\Debug\QuickSort.dll
-C:\Users\user\source\repos\Sortings\QuickSort\bin\Debug\QuickSort.pdb
-C:\Users\user\source\repos\Sortings\QuickSort\obj\Debug\QuickSortLogic.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\Sortings\QuickSort\obj\Debug\QuickSort.dll
-C:\Users\user\source\repos\Sortings\QuickSort\obj\Debug\QuickSort.pdb
-C:\Users\user\source\repos\Sortings\QuickSort\obj\Debug\QuickSortLogic.csprojResolveAssemblyReference.cache
