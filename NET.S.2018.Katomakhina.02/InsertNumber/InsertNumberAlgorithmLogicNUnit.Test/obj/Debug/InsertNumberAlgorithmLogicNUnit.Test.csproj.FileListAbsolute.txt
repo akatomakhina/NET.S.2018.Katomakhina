@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\InsertNumberAlgorithmLogicNUnit.Test.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\InsertNumberAlgorithmLogicNUnit.Test.pdb
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\InsertNumberAlgorithmLogic.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\nunit.framework.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\InsertNumberAlgorithmLogic.pdb
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\nunit.framework.xml
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.csproj.CopyComplete
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.pdb

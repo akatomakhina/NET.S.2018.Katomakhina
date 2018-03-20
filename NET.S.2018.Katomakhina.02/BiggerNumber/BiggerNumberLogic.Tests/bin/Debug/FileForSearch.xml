@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TestCases>
+  <TestCase>
+    <Actual>234</Actual>
+    <ExpectedResult>243</ExpectedResult>
+  </TestCase>
+  <TestCase>
+    <Actual>-367</Actual>
+    <ExpectedResult>-376</ExpectedResult>
+  </TestCase>
+</TestCases>

@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic\bin\Debug\InsertNumberAlgorithmLogic.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic\bin\Debug\InsertNumberAlgorithmLogic.pdb
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\InsertNumberAlgorithmLogic.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\InsertNumberAlgorithmLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\InsertNumberAlgorithmLogic.dll
+C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\InsertNumberAlgorithmLogic.pdb
