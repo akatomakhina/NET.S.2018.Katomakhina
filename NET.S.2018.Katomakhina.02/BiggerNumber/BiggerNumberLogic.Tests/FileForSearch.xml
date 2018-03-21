@@ -8,4 +8,12 @@
     <Actual>-367</Actual>
     <ExpectedResult>-376</ExpectedResult>
   </TestCase>
+  <TestCase>
+    <Actual>-768</Actual>
+    <ExpectedResult>-786</ExpectedResult>
+  </TestCase>
+  <TestCase>
+    <Actual>10</Actual>
+    <ExpectedResult>-1</ExpectedResult>
+  </TestCase>
 </TestCases>

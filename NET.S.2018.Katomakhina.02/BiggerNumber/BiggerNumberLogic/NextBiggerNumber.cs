@@ -83,11 +83,11 @@ namespace BiggerNumberLogic
 
             if (charNumber[position - 1] < charNumber[charNumber.Length - 1])
             {
-                Exchange(ref charNumber[position - 1], ref charNumber[charNumber.Length - 1]);
+                Swap(ref charNumber[position - 1], ref charNumber[charNumber.Length - 1]);
             }
             else
             {
-                Exchange(ref charNumber[position], ref charNumber[position - 1]);
+                Swap(ref charNumber[position], ref charNumber[position - 1]);
             }
 
             Array.Reverse(charNumber, position, charNumber.Length - position);
@@ -100,7 +100,7 @@ namespace BiggerNumberLogic
         /// </summary>
         /// <param name="a">The first variable.</param>
         /// <param name="b">The second variable.</param>
-        private static void Exchange(ref char a, ref char b)
+        private static void Swap(ref char a, ref char b)
         {
             char temporary = a;
             a = b;
