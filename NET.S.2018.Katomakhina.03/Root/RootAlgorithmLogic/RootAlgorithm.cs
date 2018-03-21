@@ -22,15 +22,12 @@ namespace RootAlgorithmLogic
         /// <returns>The calculated value.</returns>
         public static double FindNthRoot(double number, int degree, double accuracy = 0.0001)
         {
-            double privateNumber = number;
-            int privateDegree = degree;
-
             if (accuracy < 0)
             {
                 throw new ArgumentOutOfRangeException(nameof(accuracy));
             }
 
-            return FindRootRealization(privateNumber, privateDegree, accuracy);
+            return FindRootRealization(number, degree, accuracy);
         }
         #endregion
 
@@ -42,7 +39,7 @@ namespace RootAlgorithmLogic
         /// <param name="degree">A received n-degree.</param>
         /// <param name="accuracy">Adjusted accuracy.</param>
         /// <returns>The calculated value.</returns>
-        private static double FindRootRealization(double number, int degree, double accuracy = 0.0001)
+        private static double FindRootRealization(double number, int degree, double accuracy)
         {
             double x0 = 1;
 
