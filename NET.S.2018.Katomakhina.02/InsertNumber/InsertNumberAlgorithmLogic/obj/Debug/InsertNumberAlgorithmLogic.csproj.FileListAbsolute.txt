@@ -4,3 +4,9 @@ C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\Ins
 C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\InsertNumberAlgorithmLogic.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\InsertNumberAlgorithmLogic.dll
 C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\InsertNumberAlgorithmLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogic\bin\Debug\InsertNumberAlgorithmLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogic\bin\Debug\InsertNumberAlgorithmLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\InsertNumberAlgorithmLogic.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\InsertNumberAlgorithmLogic.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\InsertNumberAlgorithmLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogic\obj\Debug\InsertNumberAlgorithmLogic.pdb

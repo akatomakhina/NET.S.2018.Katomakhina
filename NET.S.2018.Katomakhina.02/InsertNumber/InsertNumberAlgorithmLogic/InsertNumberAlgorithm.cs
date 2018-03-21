@@ -14,12 +14,12 @@ namespace InsertNumberAlgorithmLogic
     {
         #region ConstantField
         /// <summary>
-        /// The maximum integer value.
+        /// The maximum integer value - 2.147.483.647.
         /// </summary>
         private const int MaxNumber = 0x7fffffff;
 
         /// <summary>
-        /// The maximum bit value.
+        /// The maximum bit value in type int.
         /// </summary>
         private const int MaxNumberOfBit = 31;
         #endregion

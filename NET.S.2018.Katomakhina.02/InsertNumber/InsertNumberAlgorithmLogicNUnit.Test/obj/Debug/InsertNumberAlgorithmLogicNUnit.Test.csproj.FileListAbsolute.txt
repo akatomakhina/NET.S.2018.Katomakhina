@@ -9,3 +9,14 @@ C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj
 C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.csproj.CopyComplete
 C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.dll
 C:\Users\user\source\repos\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\InsertNumberAlgorithmLogicNUnit.Test.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\InsertNumberAlgorithmLogicNUnit.Test.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\InsertNumberAlgorithmLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\nunit.framework.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\InsertNumberAlgorithmLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\bin\Debug\nunit.framework.xml
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.csproj.CopyComplete
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.02\InsertNumber\InsertNumberAlgorithmLogicNUnit.Test\obj\Debug\InsertNumberAlgorithmLogicNUnit.Test.pdb
