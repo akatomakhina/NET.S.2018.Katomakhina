@@ -62,11 +62,41 @@ namespace FilterLogic.Tests
         }
 
         [TestMethod]
+        [DataSource(
+            "Microsoft.VisualStudio.TestTools.DataSource.XML",
+            "|DataDirectory|\\ArrayForFilter.xml",
+            "TestCase",
+            DataAccessMethod.Sequential)]
+        [DeploymentItem("FilterLogic.Tests\\ArrayForFilter.xml")]
+        public void FilterDigitString_FilterXML()
+        {
+            int[] array = Array.ConvertAll(Convert.ToString(TestContext.DataRow["Actual"]).Split(' '), int.Parse);
+            int[] expected = Array.ConvertAll(Convert.ToString(TestContext.DataRow["Expected"]).Split(' '), int.Parse);
+            var filter = Convert.ToInt32(TestContext.DataRow["Filter"]);
+
+            int[] actual = listFilter.FilterDigit(array, filter);
+
+            CollectionAssert.AreEquivalent(expected, actual);
+        }
+
+        [TestMethod]
         public void FilterDigit_ArrayFilter()
         {
             int[] expected = new int[]{3, -13, 33, -37, -23, 334};
             int[] actual;
             int[] array = new int[]{1, -90, 3, -15, -13, 1, 100, 33, 0, 2, -37, -51, -23, 14, 334};
+
+            actual = listFilter.FilterDigit(array, FILTER);
+
+            CollectionAssert.AreEquivalent(expected, actual);
+        }
+
+        [TestMethod]
+        public void FilterDigitString_ArrayFilter()
+        {
+            int[] expected = new int[] { 3, -13, 33, -37, -23, 334 };
+            int[] actual;
+            int[] array = new int[] { 1, -90, 3, -15, -13, 1, 100, 33, 0, 2, -37, -51, -23, 14, 334 };
 
             actual = listFilter.FilterDigit(array, FILTER);
 

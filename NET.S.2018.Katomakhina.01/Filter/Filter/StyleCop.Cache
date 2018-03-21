@@ -3,11 +3,14 @@
   <project key="1412095985">
     <configuration>DEBUG;TRACE</configuration>
   </project>
+  <project key="211221430">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="Filter.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2018.03.14 18:19:21.662</styleCop>
       <settingsFile>2018.03.14 18:19:21.624</settingsFile>
-      <sourceFile>2018.03.17 20:23:44.665</sourceFile>
+      <sourceFile>2018.03.21 13:41:31.597</sourceFile>
       <parser>2018.03.14 18:19:21.662</parser>
       <StyleCop.CSharp.DocumentationRules>2018.03.14 18:19:21.662</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>0</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -27,56 +30,111 @@
     <violations>
       <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
         <context>The call to number must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>53</line>
-        <index>1758</index>
-        <endIndex>1763</endIndex>
-        <startLine>53</startLine>
+        <line>92</line>
+        <index>3405</index>
+        <endIndex>3410</endIndex>
+        <startLine>92</startLine>
         <startColumn>13</startColumn>
-        <endLine>53</endLine>
+        <endLine>92</endLine>
         <endColumn>18</endColumn>
         <warning>False</warning>
       </violation>
       <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
         <context>The call to numbers must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>60</line>
-        <index>1985</index>
-        <endIndex>1991</endIndex>
-        <startLine>60</startLine>
+        <line>99</line>
+        <index>3632</index>
+        <endIndex>3638</endIndex>
+        <startLine>99</startLine>
         <startColumn>30</startColumn>
-        <endLine>60</endLine>
+        <endLine>99</endLine>
         <endColumn>36</endColumn>
         <warning>False</warning>
       </violation>
       <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
         <context>The call to IsMatch must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>58</line>
-        <index>1907</index>
-        <endIndex>1913</endIndex>
-        <startLine>58</startLine>
+        <line>97</line>
+        <index>3554</index>
+        <endIndex>3560</endIndex>
+        <startLine>97</startLine>
         <startColumn>21</startColumn>
-        <endLine>58</endLine>
+        <endLine>97</endLine>
         <endColumn>27</endColumn>
         <warning>False</warning>
       </violation>
       <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
         <context>The call to numbers must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>58</line>
-        <index>1915</index>
-        <endIndex>1921</endIndex>
-        <startLine>58</startLine>
+        <line>97</line>
+        <index>3562</index>
+        <endIndex>3568</endIndex>
+        <startLine>97</startLine>
         <startColumn>29</startColumn>
-        <endLine>58</endLine>
+        <endLine>97</endLine>
         <endColumn>35</endColumn>
         <warning>False</warning>
       </violation>
       <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
         <context>The call to number must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>56</line>
-        <index>1858</index>
-        <endIndex>1863</endIndex>
-        <startLine>56</startLine>
+        <line>95</line>
+        <index>3505</index>
+        <endIndex>3510</endIndex>
+        <startLine>95</startLine>
         <startColumn>33</startColumn>
-        <endLine>56</endLine>
+        <endLine>95</endLine>
+        <endColumn>38</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to number must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>130</line>
+        <index>4851</index>
+        <endIndex>4856</endIndex>
+        <startLine>130</startLine>
+        <startColumn>13</startColumn>
+        <endLine>130</endLine>
+        <endColumn>18</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to numbers must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>137</line>
+        <index>5086</index>
+        <endIndex>5092</endIndex>
+        <startLine>137</startLine>
+        <startColumn>30</startColumn>
+        <endLine>137</endLine>
+        <endColumn>36</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to IsMatchInString must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>135</line>
+        <index>5000</index>
+        <endIndex>5014</endIndex>
+        <startLine>135</startLine>
+        <startColumn>21</startColumn>
+        <endLine>135</endLine>
+        <endColumn>35</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to numbers must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>135</line>
+        <index>5016</index>
+        <endIndex>5022</endIndex>
+        <startLine>135</startLine>
+        <startColumn>37</startColumn>
+        <endLine>135</endLine>
+        <endColumn>43</endColumn>
+        <warning>False</warning>
+      </violation>
+      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
+        <context>The call to number must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
+        <line>133</line>
+        <index>4951</index>
+        <endIndex>4956</endIndex>
+        <startLine>133</startLine>
+        <startColumn>33</startColumn>
+        <endLine>133</endLine>
         <endColumn>38</endColumn>
         <warning>False</warning>
       </violation>

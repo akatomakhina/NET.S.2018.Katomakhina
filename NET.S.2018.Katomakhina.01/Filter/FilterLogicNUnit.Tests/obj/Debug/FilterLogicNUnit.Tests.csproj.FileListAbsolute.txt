@@ -9,3 +9,14 @@ C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNU
 C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.pdb
 C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\bin\Debug\Filter.dll
 C:\Users\user\source\repos\Filter\FilterLogicNUnit.Tests\bin\Debug\Filter.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\bin\Debug\FilterLogicNUnit.Tests.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\bin\Debug\FilterLogicNUnit.Tests.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\bin\Debug\Filter.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\bin\Debug\nunit.framework.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\bin\Debug\Filter.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\bin\Debug\nunit.framework.xml
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.csproj.CopyComplete
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.pdb
