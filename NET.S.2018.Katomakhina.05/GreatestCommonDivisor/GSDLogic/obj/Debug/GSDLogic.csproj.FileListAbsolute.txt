@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\GreatestCommonDivisor\GSDLogic\bin\Debug\GSDLogic.dll
+C:\Users\user\source\repos\GreatestCommonDivisor\GSDLogic\bin\Debug\GSDLogic.pdb
+C:\Users\user\source\repos\GreatestCommonDivisor\GSDLogic\obj\Debug\GSDLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\GreatestCommonDivisor\GSDLogic\obj\Debug\GSDLogic.dll
+C:\Users\user\source\repos\GreatestCommonDivisor\GSDLogic\obj\Debug\GSDLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.05\GreatestCommonDivisor\GSDLogic\bin\Debug\GSDLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.05\GreatestCommonDivisor\GSDLogic\bin\Debug\GSDLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.05\GreatestCommonDivisor\GSDLogic\obj\Debug\GSDLogic.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.05\GreatestCommonDivisor\GSDLogic\obj\Debug\GSDLogic.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.05\GreatestCommonDivisor\GSDLogic\obj\Debug\GSDLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.05\GreatestCommonDivisor\GSDLogic\obj\Debug\GSDLogic.pdb
