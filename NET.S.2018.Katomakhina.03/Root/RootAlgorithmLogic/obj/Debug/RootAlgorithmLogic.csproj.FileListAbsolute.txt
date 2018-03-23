@@ -9,4 +9,3 @@ E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.03\Root\RootAlgor
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.03\Root\RootAlgorithmLogic\obj\Debug\RootAlgorithmLogic.csproj.CoreCompileInputs.cache
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.03\Root\RootAlgorithmLogic\obj\Debug\RootAlgorithmLogic.dll
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.03\Root\RootAlgorithmLogic\obj\Debug\RootAlgorithmLogic.pdb
-E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.03\Root\RootAlgorithmLogic\obj\Debug\RootAlgorithmLogic.csprojResolveAssemblyReference.cache

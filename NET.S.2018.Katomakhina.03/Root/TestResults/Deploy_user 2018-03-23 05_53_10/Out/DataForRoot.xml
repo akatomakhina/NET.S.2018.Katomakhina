@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<TestCases>
+  <TestCase>
+    <Number>1</Number>
+    <Degree>5</Degree>
+    <Accuracy></Accuracy>
+    <ExpectedResult>1</ExpectedResult>
+  </TestCase>
+<TestCase>
+    <Number>8</Number>
+    <Degree>3</Degree>
+    <Accuracy></Accuracy>
+    <ExpectedResult>2</ExpectedResult>
+  </TestCase>
+<TestCase>
+    <Number>0.001</Number>
+    <Degree>3</Degree>
+  <Accuracy></Accuracy>
+    <ExpectedResult>0.1</ExpectedResult>
+  </TestCase>
+<TestCase>
+    <Number>0.04100625</Number>
+    <Degree>4</Degree>
+  <Accuracy></Accuracy>
+    <ExpectedResult>0.45</ExpectedResult>
+  </TestCase>
+<TestCase>
+    <Number>0.0279936</Number>
+    <Degree>7</Degree>
+  <Accuracy></Accuracy>
+    <ExpectedResult>0.6</ExpectedResult>
+  </TestCase>
+<TestCase>
+    <Number>97.65625</Number>
+    <Degree>-5</Degree>
+  <Accuracy></Accuracy>
+    <ExpectedResult>0.4</ExpectedResult>
+  </TestCase>
+</TestCases>

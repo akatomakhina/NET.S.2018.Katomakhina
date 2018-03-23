@@ -30,3 +30,5 @@ E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.03\Root\RootAlgor
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.03\Root\RootAlgoritnmLogic.Tests\obj\Debug\RootAlgorithmLogic.Tests.csproj.CopyComplete
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.03\Root\RootAlgoritnmLogic.Tests\obj\Debug\RootAlgoritnmLogic.Tests.dll
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.03\Root\RootAlgoritnmLogic.Tests\obj\Debug\RootAlgoritnmLogic.Tests.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.03\Root\RootAlgoritnmLogic.Tests\bin\Debug\DataForRoot.xml
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.03\Root\RootAlgoritnmLogic.Tests\bin\Debug\DataFromInsertWithAccuracy.xml

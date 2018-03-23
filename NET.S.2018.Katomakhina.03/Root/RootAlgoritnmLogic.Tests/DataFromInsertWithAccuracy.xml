@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestCases>
+<TestCase>
+  <Number>0.0081</Number>
+  <Degree>4</Degree>
+  <Accuracy>0.1</Accuracy>
+  <ExpectedResult>0.3</ExpectedResult>
+</TestCase>
+  <TestCase>
+    <Number>-0.008</Number>
+    <Degree>3</Degree>
+    <Accuracy>0.1</Accuracy>
+    <ExpectedResult>-0.2</ExpectedResult>
+  </TestCase>
+  <TestCase>
+    <Number>0.004241979</Number>
+    <Degree>9</Degree>
+    <Accuracy>0.00000001</Accuracy>
+    <ExpectedResult>0.545</ExpectedResult>
+  </TestCase>
+</TestCases>
