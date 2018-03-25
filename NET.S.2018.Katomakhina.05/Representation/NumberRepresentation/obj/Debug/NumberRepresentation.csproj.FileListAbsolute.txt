@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Representation\NumberRepresentation\bin\Debug\NumberRepresentation.dll
+C:\Users\user\source\repos\Representation\NumberRepresentation\bin\Debug\NumberRepresentation.pdb
+C:\Users\user\source\repos\Representation\NumberRepresentation\obj\Debug\NumberRepresentation.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Representation\NumberRepresentation\obj\Debug\NumberRepresentation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Representation\NumberRepresentation\obj\Debug\NumberRepresentation.dll
+C:\Users\user\source\repos\Representation\NumberRepresentation\obj\Debug\NumberRepresentation.pdb

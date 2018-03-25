@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Representation\NumberRepresentation.Tests\bin\Debug\NumberRepresentation.Tests.dll
+C:\Users\user\source\repos\Representation\NumberRepresentation.Tests\bin\Debug\NumberRepresentation.Tests.pdb
+C:\Users\user\source\repos\Representation\NumberRepresentation.Tests\bin\Debug\NumberRepresentation.dll
+C:\Users\user\source\repos\Representation\NumberRepresentation.Tests\bin\Debug\nunit.framework.dll
+C:\Users\user\source\repos\Representation\NumberRepresentation.Tests\bin\Debug\NumberRepresentation.pdb
+C:\Users\user\source\repos\Representation\NumberRepresentation.Tests\bin\Debug\nunit.framework.xml
+C:\Users\user\source\repos\Representation\NumberRepresentation.Tests\obj\Debug\NumberRepresentation.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Representation\NumberRepresentation.Tests\obj\Debug\NumberRepresentation.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Representation\NumberRepresentation.Tests\obj\Debug\NumberRepresentation.Tests.csproj.CopyComplete
+C:\Users\user\source\repos\Representation\NumberRepresentation.Tests\obj\Debug\NumberRepresentation.Tests.dll
+C:\Users\user\source\repos\Representation\NumberRepresentation.Tests\obj\Debug\NumberRepresentation.Tests.pdb
