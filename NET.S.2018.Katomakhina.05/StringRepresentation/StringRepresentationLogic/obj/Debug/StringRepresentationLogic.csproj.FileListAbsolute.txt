@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic\bin\Debug\StringRepresentationLogic.dll
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic\bin\Debug\StringRepresentationLogic.pdb
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic\obj\Debug\StringRepresentationLogic.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic\obj\Debug\StringRepresentationLogic.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic\obj\Debug\StringRepresentationLogic.dll
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic\obj\Debug\StringRepresentationLogic.pdb

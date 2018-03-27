@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic.Tests\bin\Debug\StringRepresentationLogic.Tests.dll
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic.Tests\bin\Debug\StringRepresentationLogic.Tests.pdb
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic.Tests\bin\Debug\nunit.framework.dll
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic.Tests\bin\Debug\StringRepresentationLogic.dll
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic.Tests\bin\Debug\StringRepresentationLogic.pdb
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic.Tests\bin\Debug\nunit.framework.xml
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic.Tests\obj\Debug\StringRepresentationLogic.Tests.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic.Tests\obj\Debug\StringRepresentationLogic.Tests.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic.Tests\obj\Debug\StringRepresentationLogic.Tests.csproj.CopyComplete
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic.Tests\obj\Debug\StringRepresentationLogic.Tests.dll
+C:\Users\user\source\repos\StringRepresentation\StringRepresentationLogic.Tests\obj\Debug\StringRepresentationLogic.Tests.pdb
