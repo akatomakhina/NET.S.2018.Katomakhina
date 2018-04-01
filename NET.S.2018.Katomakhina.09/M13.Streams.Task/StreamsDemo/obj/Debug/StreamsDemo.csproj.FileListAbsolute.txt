@@ -20,3 +20,4 @@ E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.09\M13.Streams.Ta
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.09\M13.Streams.Task\StreamsDemo\obj\Debug\StreamsDemo.pdb
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.09\M13.Streams.Task\StreamsDemo\bin\Debug\StreamsDemo.dll
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.09\M13.Streams.Task\StreamsDemo\bin\Debug\StreamsDemo.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.09\M13.Streams.Task\StreamsDemo\obj\Debug\StreamsDemo.csprojResolveAssemblyReference.cache

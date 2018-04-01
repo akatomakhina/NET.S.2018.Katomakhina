@@ -19,8 +19,7 @@ namespace ConsoleClient
             Console.WriteLine(IsContentEquals(source, destination));*/
             var source = @"..\..\..\Resources\SourceText.txt";
             var destination = @"..\..\..\Resources\DestinationText.txt";
-            Console.WriteLine(InMemoryByByteCopy(source, destination));
-            Console.ReadKey();
+            ByLineCopy(source, destination);
             //etc
         }
     }

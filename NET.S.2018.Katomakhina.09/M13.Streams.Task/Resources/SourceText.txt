@@ -1,4 +1,4 @@
-?Using Settings in C#
+Using Settings in C#
 
 Visual Studio 2005
  

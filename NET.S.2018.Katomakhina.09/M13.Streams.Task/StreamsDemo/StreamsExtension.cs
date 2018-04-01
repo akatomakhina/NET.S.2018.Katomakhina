@@ -24,13 +24,13 @@ namespace StreamsDemo
 
             int count = 0;
 
-                for (int i = 0; i < reader.Length; i++)
-                {
-                    writer.WriteByte((byte)reader.ReadByte());
-                    count++;
-                }
+            for (int i = 0; i < reader.Length; i++)
+            {
+                writer.WriteByte((byte)reader.ReadByte());
+                count++;
+            }
 
-                return count;
+            return count;
         }
 
         #endregion
@@ -44,27 +44,31 @@ namespace StreamsDemo
             TextReader reader = new StreamReader(sourcePath);
 
             byte[] arrayOfSourceBits = Encoding.UTF8.GetBytes(reader.ReadToEnd());
+
             var memory = new MemoryStream(arrayOfSourceBits);
+
             memory.Close();
             arrayOfBits = memory.ToArray();
 
             TextWriter writer = new StreamWriter(destinationPath);
 
             char[] source = Encoding.UTF8.GetChars(arrayOfBits);
+
             writer.Write(source);
 
             return source.Length;
-                // TODO: step 1. Use StreamReader to read entire file in string
+            
+            // TODO: step 1. Use StreamReader to read entire file in string
 
-                // TODO: step 2. Create byte array on base string content - use  System.Text.Encoding class
+            // TODO: step 2. Create byte array on base string content - use  System.Text.Encoding class
 
-                // TODO: step 3. Use MemoryStream instance to read from byte array (from step 2)
+            // TODO: step 3. Use MemoryStream instance to read from byte array (from step 2)
 
-                // TODO: step 4. Use MemoryStream instance (from step 3) to write it content in new byte array
+            // TODO: step 4. Use MemoryStream instance (from step 3) to write it content in new byte array
 
-                // TODO: step 5. Use Encoding class instance (from step 2) to create char array on byte array content
+            // TODO: step 5. Use Encoding class instance (from step 2) to create char array on byte array content
 
-                // TODO: step 6. Use StreamWriter here to write char array content in new file
+            // TODO: step 6. Use StreamWriter here to write char array content in new file
             }
 
         #endregion
@@ -73,7 +77,19 @@ namespace StreamsDemo
 
         public static int ByBlockCopy(string sourcePath, string destinationPath)
         {
-            throw new NotImplementedException();
+            FileStream reader = new FileStream(sourcePath, FileMode.Open, FileAccess.Read);
+            FileStream writer = new FileStream(destinationPath, FileMode.Create, FileAccess.Write);
+
+            byte[] arrayOfBits;
+
+            arrayOfBits = new byte[(int)reader.Length];
+
+            reader.Read(arrayOfBits, 0, arrayOfBits.Length);
+
+            writer.Write(arrayOfBits, 0, arrayOfBits.Length);
+
+            return (int)writer.Length;
+            
         }
 
         #endregion
@@ -99,9 +115,18 @@ namespace StreamsDemo
 
         #region TODO: Implement by line copy logic using FileStream and classes text-adapters StreamReader/StreamWriter
 
-        public static int ByLineCopy(string sourcePath, string destinationPath)
+        public static void ByLineCopy(string sourcePath, string destinationPath)
         {
-            throw new NotImplementedException();
+            StreamReader streamReader = new StreamReader(new FileStream(sourcePath, FileMode.Open, FileAccess.Read));
+            StreamWriter streamWriter = new StreamWriter(new FileStream(destinationPath, FileMode.Create, FileAccess.Write));
+
+            while (!streamReader.EndOfStream)
+            {
+                string text = "";
+                string temp = streamReader.ReadLine();
+                text += temp;
+                streamWriter.WriteLine(text);
+            }     
         }
 
         #endregion
