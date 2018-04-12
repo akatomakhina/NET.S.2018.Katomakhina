@@ -15,9 +15,13 @@ namespace FibonacciLogic
         /// <param name="number">Number of elements in sequence to be generated.</param>
         /// <returns>Order of numbers.</returns>
         /// <exception cref="ArgumentException">An exception is thrown if the number is negative.</exception>
-        public static IEnumerable<BigInteger> Generate(int number)
+        public static IEnumerable<BigInteger> GenerateOrder(int number)
         {
-            if (number < 0) throw new ArgumentException($"{nameof(number)} can't be negative");
+            if (number < 0)
+            {
+                throw new ArgumentException($"{nameof(number)} can't be negative");
+            }
+
             return GenerateHelper();
 
             IEnumerable<BigInteger> GenerateHelper()
