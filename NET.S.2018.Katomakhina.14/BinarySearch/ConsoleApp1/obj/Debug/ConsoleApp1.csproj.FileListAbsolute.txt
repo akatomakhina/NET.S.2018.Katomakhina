@@ -1,0 +1,10 @@
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\ConsoleApp1\bin\Debug\BinarySearchLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\ConsoleApp1\bin\Debug\BinarySearchLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

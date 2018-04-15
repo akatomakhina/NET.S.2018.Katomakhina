@@ -1,0 +1,6 @@
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\BinarySearchLogic\bin\Debug\BinarySearchLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\BinarySearchLogic\bin\Debug\BinarySearchLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\BinarySearchLogic\obj\Debug\BinarySearchLogic.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\BinarySearchLogic\obj\Debug\BinarySearchLogic.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\BinarySearchLogic\obj\Debug\BinarySearchLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\BinarySearchLogic\obj\Debug\BinarySearchLogic.pdb

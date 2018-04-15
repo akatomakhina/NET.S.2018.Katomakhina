@@ -1,0 +1,11 @@
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\NUnitSearch.Tests\obj\Debug\NUnitBinarySearchLogic.Tests.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\NUnitSearch.Tests\obj\Debug\NUnitBinarySearchLogic.Tests.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\NUnitSearch.Tests\bin\Debug\NUnitSearch.Tests.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\NUnitSearch.Tests\bin\Debug\NUnitSearch.Tests.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\NUnitSearch.Tests\bin\Debug\BinarySearchLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\NUnitSearch.Tests\bin\Debug\nunit.framework.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\NUnitSearch.Tests\bin\Debug\BinarySearchLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\NUnitSearch.Tests\bin\Debug\nunit.framework.xml
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\NUnitSearch.Tests\obj\Debug\NUnitBinarySearchLogic.Tests.csproj.CopyComplete
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\NUnitSearch.Tests\obj\Debug\NUnitSearch.Tests.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.14\BinarySearch\NUnitSearch.Tests\obj\Debug\NUnitSearch.Tests.pdb
