@@ -6,182 +6,118 @@
 namespace FilterLogic
 {
     using System;
-    using System.Collections.Generic;
-    using System.Diagnostics;
+    using IPredicateLogic;
 
     /// <summary>
     /// This class realize filtering method.
     /// </summary>
-    public class Filter
+    public class Filter : IPredicate<int>
     {
-        #region PrivateFields
-        /// <summary>
-        /// Original array.
-        /// </summary>
-        private int[] numbers;
 
-        /// <summary>
-        /// The number of elements in the array.
-        /// </summary>
-        private int number;
+        #region PrivateFields
+
+        private int filterNumber;
 
         #endregion
 
         #region PublicMethod
-        /// <summary>
-        /// The time of operation of the method with the division of the number with the remainder.
-        /// </summary>
-        /// <param name="array">The received array.</param>
-        /// <param name="filter">The received number of which will be filtered.</param>
-        /// <returns>Retirns tuple: filtered array and elapsed time.</returns>
-        public static Tuple<TimeSpan> FilterTiming(int[] array, int filter)
-        {            
-            Stopwatch time = new Stopwatch();
-            Filter filteredArray = new Filter();
 
-            Console.Write("Работа фильтра с делением с отстатком: ");
-            time.Start();
-            filteredArray.FilterDigit(array, filter);
-            time.Stop();
-
-            return new Tuple<TimeSpan>(time.Elapsed);
-        }
-
-        /// <summary>
-        /// The time the method works with converting a number to a string.
-        /// </summary>
-        /// <param name="array">The received array.</param>
-        /// <param name="filter">The received number of which will be filtered.</param>
-        /// <returns>Retirns tuple: filtered array and elapsed time.</returns>
-        public static Tuple<TimeSpan> FilterTimingString(int[] array, int filter)
+        public int FilterNumber
         {
-            Stopwatch time = new Stopwatch();
-            Filter filteredArray = new Filter();
+            get => filterNumber;
 
-            Console.Write("Работа фильтра со строкой: ");
-            time.Start();
-            filteredArray.FilterDigitString(array, filter);
-            time.Stop();
-
-            return new Tuple<TimeSpan>(time.Elapsed);
-        }
-
-        /// <summary>
-        /// The method forms a list with those numbers that contain the desired digit.
-        /// </summary>
-        /// <param name="values">The received array.</param>
-        /// <param name="filter">The digit that must be contained in the checked number.</param>
-        /// <exception cref="ArgumentNullException">An error is returned 
-        /// if the array is empty or null reference.</exception>
-        /// <exception cref="ArgumentOutOfRangeException">An error is returned 
-        /// if the filter number is not natural or zero.</exception>
-        /// <returns>Returns a filtered list.</returns>
-        public int[] FilterDigit(int[] values, int filter)
-        {
-            if (values == null || values.Length == 0)
+            set
             {
-                throw new ArgumentNullException(nameof(values));
-            }
-
-            if (filter < 0 || filter > 9)
-            {
-                throw new ArgumentOutOfRangeException(nameof(filter));
-            }
-
-            this.numbers = values;
-            number = values.Length;
-            var list = new List<int>();
-
-            for (int i = 0; i < number; i++)
-            {
-                if (IsMatch(numbers[i], filter))
+                if (value < 0 || value > 9)
                 {
-                    list.Add(numbers[i]);
+                    throw new ArgumentOutOfRangeException(nameof(value));
                 }
-            }
 
-            return list.ToArray();
+                filterNumber = value;
+            }
         }
 
-        /// <summary>
-        /// The method forms a list with those numbers that contain the desired digit 
-        /// with converting a number to a string.
-        /// </summary>
-        /// <param name="values">The received array.</param>
-        /// <param name="filter">The digit that must be contained in the checked number.</param>
-        /// <exception cref="ArgumentNullException">An error is returned 
-        /// if the array is empty or null reference.</exception>
-        /// <exception cref="ArgumentOutOfRangeException">An error is returned 
-        /// if the filter number is not natural or zero.</exception>
-        /// <returns>Returns a filtered list.</returns>
-        public int[] FilterDigitString(int[] values, int filter)
-        {
-            if (values == null || values.Length == 0)
-            {
-                throw new ArgumentNullException(nameof(values));
-            }
-
-            if (filter < 0 || filter > 9)
-            {
-                throw new ArgumentOutOfRangeException(nameof(filter));
-            }
-
-            this.numbers = values;
-            number = values.Length;
-            var list = new List<int>();
-
-            for (int i = 0; i < number; i++)
-            {
-                if (IsMatchInString(numbers[i], filter))
-                {
-                    list.Add(numbers[i]);
-                }
-            }
-
-            return list.ToArray();
-        }
         #endregion
 
         #region PrivateMethod
-        /// <summary>
-        /// The method checks whether we have found the right digit.
-        /// </summary>
-        /// <param name="number">The number that we want to check.</param>
-        /// <param name="filter">The digit that must be contained in the checked number.</param>
-        /// <returns>Returns the truе if we found the necessary digit and false if not found.</returns>
-        private bool IsMatch(int number, int filter)
+        
+        bool IPredicate<int>.Predicate(int element)
         {
             do
             {
-                if (number % 10 == filter || number % 10 == -filter)
+                if (element % 10 == FilterNumber || element % 10 == -FilterNumber)
                 {
                     return true;
                 }
 
-                number /= 10;
+                element /= 10;
             }
-            while (number != 0);
+            while (element != 0);
 
             return false;
-        }
+        }       
+                        
+        #endregion
+    }
 
-        /// <summary>
-        /// The method checks whether we have found the right digit with converting a number to a string.
-        /// </summary>
-        /// <param name="number">The number that we want to check.</param>
-        /// <param name="filter">The digit that must be contained in the checked number.</param>
-        /// <returns>Returns the truе if we found the necessary digit and false if not found.</returns>
-        private bool IsMatchInString(int number, int filter)
+    public class EvenNumbers : IPredicate<int>
+    {
+        public bool Predicate(int element)
         {
-            string convertString = number.ToString();
-            string filterString = filter.ToString();
-            if (convertString.Contains(filterString))
+            if (element % 2 == 0)
             {
                 return true;
             }
-
-            return false;
+            else return false;
         }
-        #endregion
+    }
+
+    public class OddNumbers : IPredicate<int>
+    {
+        public bool Predicate(int element)
+        {
+            if (element % 2 == 0)
+            {
+                return false;
+            }
+            else return true;
+        }
+    }
+
+    public class SimpleNumbers : IPredicate<int>
+    {
+        public bool Predicate(int element)
+        {
+            if (element > 1)
+            {
+                for (int i = 2; i <= element / 2; i++)
+                {
+                    if (element % i == 0)
+                        return false;
+                }
+                return true;
+            }
+            else throw new ArgumentException(nameof(element));
+        }
+    }
+
+    public class PolyndromNumbers : IPredicate<int>
+    {
+        public bool Predicate(int element)
+        {            
+            int left = 0;
+            int right = element;
+            while (right > 0)
+            {
+                left = left * 10 + right % 10;
+                right = right / 10;
+            }
+
+            if (left == element)
+            {
+                return true;
+            }
+            else return false;
+        }
     }
 }

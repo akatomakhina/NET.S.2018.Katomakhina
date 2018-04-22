@@ -1,0 +1,6 @@
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\IPredicateLogic\bin\Debug\IPredicateLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\IPredicateLogic\bin\Debug\IPredicateLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\IPredicateLogic\obj\Debug\IPredicateLogic.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\IPredicateLogic\obj\Debug\IPredicateLogic.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\IPredicateLogic\obj\Debug\IPredicateLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\IPredicateLogic\obj\Debug\IPredicateLogic.pdb

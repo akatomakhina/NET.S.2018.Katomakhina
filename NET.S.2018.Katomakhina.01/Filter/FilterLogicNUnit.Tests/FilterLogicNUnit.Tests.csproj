@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>FilterLogicNUnit.Tests</RootNamespace>
     <AssemblyName>FilterLogicNUnit.Tests</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -46,9 +47,17 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\FilterRealization\FilterRealization.csproj">
+      <Project>{367f7a50-b593-41db-bdda-d89375255ddf}</Project>
+      <Name>FilterRealization</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Filter\FilterLogic.csproj">
       <Project>{d2617ab2-1344-4b36-b808-4bc97fc100c1}</Project>
       <Name>FilterLogic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\IPredicateLogic\IPredicateLogic.csproj">
+      <Project>{236f4996-0db5-4998-bedc-6ce109ff5e69}</Project>
+      <Name>IPredicateLogic</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

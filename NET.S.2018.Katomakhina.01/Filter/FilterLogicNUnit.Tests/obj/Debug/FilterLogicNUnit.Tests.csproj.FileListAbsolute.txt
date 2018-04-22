@@ -20,3 +20,7 @@ E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterL
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.csproj.CopyComplete
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.dll
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\obj\Debug\FilterLogicNUnit.Tests.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\bin\Debug\FilterRealization.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\bin\Debug\IPredicateLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\bin\Debug\FilterRealization.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterLogicNUnit.Tests\bin\Debug\IPredicateLogic.pdb

@@ -10,3 +10,6 @@ E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\Filter\
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\Filter\obj\Debug\Filter.dll
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\Filter\obj\Debug\Filter.pdb
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\Filter\obj\Debug\FilterLogic.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\Filter\bin\Debug\IPredicateLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\Filter\bin\Debug\IPredicateLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\Filter\obj\Debug\FilterLogic.csproj.CopyComplete

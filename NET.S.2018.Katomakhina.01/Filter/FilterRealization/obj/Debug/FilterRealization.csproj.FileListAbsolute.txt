@@ -1,0 +1,11 @@
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterRealization\bin\Debug\FilterRealization.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterRealization\bin\Debug\FilterRealization.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterRealization\bin\Debug\Filter.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterRealization\bin\Debug\IPredicateLogic.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterRealization\bin\Debug\Filter.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterRealization\bin\Debug\IPredicateLogic.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterRealization\obj\Debug\FilterRealization.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterRealization\obj\Debug\FilterRealization.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterRealization\obj\Debug\FilterRealization.csproj.CopyComplete
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterRealization\obj\Debug\FilterRealization.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.S.2018.Katomakhina.01\Filter\FilterRealization\obj\Debug\FilterRealization.pdb
