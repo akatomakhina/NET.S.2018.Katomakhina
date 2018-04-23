@@ -1,3 +1,21 @@
 C:\Users\MIB\Desktop\23.11.2017\Task2.Tests\obj\Debug\Task2.Console.csprojResolveAssemblyReference.cache
 C:\Users\MIB\Desktop\23.11.2017\Task2.Tests\obj\Debug\Task2.Console.csproj.CoreCompileInputs.cache
 C:\Users\MIB\Desktop\23.11.2017\Task2.Tests\obj\Debug\Task2.Tests.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\Task2.Tests.exe
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\Task2.Tests.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\Castle.Core.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\Moq.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\nunit.framework.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\Task 2.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\Task2.Solution.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\Task2.Solution.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\Task 2.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\Castle.Core.xml
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\Moq.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\Moq.xml
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\bin\Debug\nunit.framework.xml
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\obj\Debug\Task2.Console.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\obj\Debug\Task2.Console.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\obj\Debug\Task2.Console.csproj.CopyComplete
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\obj\Debug\Task2.Tests.exe
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task2.Tests\obj\Debug\Task2.Tests.pdb
