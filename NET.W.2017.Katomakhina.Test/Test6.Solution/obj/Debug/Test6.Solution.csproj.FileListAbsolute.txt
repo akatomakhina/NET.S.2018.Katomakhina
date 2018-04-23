@@ -4,3 +4,9 @@ C:\Users\MIB\Desktop\23.11.2017\Test6.Solution\obj\Debug\Test6.Solution.csprojRe
 C:\Users\MIB\Desktop\23.11.2017\Test6.Solution\obj\Debug\Test6.Solution.csproj.CoreCompileInputs.cache
 C:\Users\MIB\Desktop\23.11.2017\Test6.Solution\obj\Debug\Test6.Solution.dll
 C:\Users\MIB\Desktop\23.11.2017\Test6.Solution\obj\Debug\Test6.Solution.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Test6.Solution\bin\Debug\Test6.Solution.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Test6.Solution\bin\Debug\Test6.Solution.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Test6.Solution\obj\Debug\Test6.Solution.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Test6.Solution\obj\Debug\Test6.Solution.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Test6.Solution\obj\Debug\Test6.Solution.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Test6.Solution\obj\Debug\Test6.Solution.pdb
