@@ -10,3 +10,9 @@ C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.csprojRe
 C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.csproj.CoreCompileInputs.cache
 C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.dll
 C:\Users\MIB\Desktop\23.11.2017\Task1.Solution\obj\Debug\Task1.Solution.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task1.Solution\bin\Debug\Task1.Solution.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task1.Solution\bin\Debug\Task1.Solution.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task1.Solution\obj\Debug\Task1.Solution.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task1.Solution\obj\Debug\Task1.Solution.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task1.Solution\obj\Debug\Task1.Solution.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task1.Solution\obj\Debug\Task1.Solution.pdb
