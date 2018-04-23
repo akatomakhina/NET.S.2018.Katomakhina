@@ -9,7 +9,6 @@ namespace Task2.Solution
 {
     public abstract class Generator
     {
-        const string INPUT = "abcdefghijklmnopqrstuvwxyz0123456789";
 
         public string WorkingDirectory
         {
@@ -40,15 +39,6 @@ namespace Task2.Solution
                 this.WriteBytesToFile(generatedFileName, generatedFileContent);
             }
         }        
-
-        protected string RandomString(int Size)
-        {
-            var random = new Random();
-
-            var chars = Enumerable.Range(0, Size).Select(x => INPUT[random.Next(0, INPUT.Length)]);
-
-            return new string(chars.ToArray());
-        }
 
         private void WriteBytesToFile(string fileName, byte[] content)
         {
