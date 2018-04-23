@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using NUnit.Framework;
-using Task4;
+//using Task4;
+using Task4.Solution;
 
 namespace Task4.Tests
 {
@@ -13,11 +14,13 @@ namespace Task4.Tests
         [Test]
         public void Test_AverageByMean()
         {
-            Calculator calculator = new Calculator();
+            var calcReal = new CalculatorRealization();
+
+            var calc = new CalculatorClassMean();
 
             double expected = 8.3636363;
 
-            double actual = calculator.CalculateAverage(values, AveragingMethod.Mean);
+            double actual = calcReal.DoCalc(values, calc);
 
             Assert.AreEqual(expected, actual, 0.000001);
         }
@@ -25,11 +28,41 @@ namespace Task4.Tests
         [Test]
         public void Test_AverageByMedian()
         {
-            Calculator calculator = new Calculator();
+            var calcReal = new CalculatorRealization();
+
+            var calc = new CalculatorClassMedian();
 
             double expected = 8.0;
 
-            double actual = calculator.CalculateAverage(values, AveragingMethod.Median);
+            double actual = calcReal.DoCalc(values, calc);
+
+            Assert.AreEqual(expected, actual, 0.000001);
+        }
+
+        [Test]
+        public void Test_AverageByMean_Delegate()
+        {
+            var calcReal = new CalculatorRealization();
+
+            var calc = new CalculatorClassMean();
+
+            double expected = 8.3636363;
+
+            double actual = calcReal.DoCalcWithDelegate(values, calc.CalculateAverage);
+
+            Assert.AreEqual(expected, actual, 0.000001);
+        }
+
+        [Test]
+        public void Test_AverageByMedian_Delegate()
+        {
+            var calcReal = new CalculatorRealization();
+
+            var calc = new CalculatorClassMedian();
+
+            double expected = 8.0;
+
+            double actual = calcReal.DoCalcWithDelegate(values, calc.CalculateAverage);
 
             Assert.AreEqual(expected, actual, 0.000001);
         }

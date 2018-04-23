@@ -18,3 +18,14 @@ C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.csprojResolveA
 C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.csproj.CoreCompileInputs.cache
 C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.dll
 C:\Users\MIB\Desktop\23.11.2017\Task4.Tests\obj\Debug\Task4.Tests.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task4.Tests\bin\Debug\Task4.Tests.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task4.Tests\bin\Debug\Task4.Tests.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task4.Tests\bin\Debug\nunit.framework.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task4.Tests\bin\Debug\nunit.framework.xml
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task4.Tests\obj\Debug\Task4.Tests.csprojResolveAssemblyReference.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task4.Tests\obj\Debug\Task4.Tests.csproj.CoreCompileInputs.cache
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task4.Tests\obj\Debug\Task4.Tests.csproj.CopyComplete
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task4.Tests\obj\Debug\Task4.Tests.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task4.Tests\obj\Debug\Task4.Tests.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task4.Tests\bin\Debug\Task4.Solution.dll
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task4.Tests\bin\Debug\Task4.Solution.pdb
