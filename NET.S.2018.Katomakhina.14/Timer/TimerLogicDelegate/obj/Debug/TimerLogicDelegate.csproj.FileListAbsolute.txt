@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\Timer\TimerLogicDelegate\bin\Debug\TimerLogicDelegate.dll
+C:\Users\user\source\repos\Timer\TimerLogicDelegate\bin\Debug\TimerLogicDelegate.pdb
+C:\Users\user\source\repos\Timer\TimerLogicDelegate\obj\Debug\TimerLogicDelegate.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Timer\TimerLogicDelegate\obj\Debug\TimerLogicDelegate.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Timer\TimerLogicDelegate\obj\Debug\TimerLogicDelegate.dll
+C:\Users\user\source\repos\Timer\TimerLogicDelegate\obj\Debug\TimerLogicDelegate.pdb

@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Timer\TimerRealization\bin\Debug\TimerRealization.exe.config
+C:\Users\user\source\repos\Timer\TimerRealization\bin\Debug\TimerRealization.exe
+C:\Users\user\source\repos\Timer\TimerRealization\bin\Debug\TimerRealization.pdb
+C:\Users\user\source\repos\Timer\TimerRealization\bin\Debug\TimerLogic.dll
+C:\Users\user\source\repos\Timer\TimerRealization\bin\Debug\TimerLogic.pdb
+C:\Users\user\source\repos\Timer\TimerRealization\obj\Debug\TimerRealization.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Timer\TimerRealization\obj\Debug\TimerRealization.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Timer\TimerRealization\obj\Debug\TimerRealization.csproj.CopyComplete
+C:\Users\user\source\repos\Timer\TimerRealization\obj\Debug\TimerRealization.exe
+C:\Users\user\source\repos\Timer\TimerRealization\obj\Debug\TimerRealization.pdb
+C:\Users\user\source\repos\Timer\TimerRealization\bin\Debug\TimerLogicDelegate.dll
+C:\Users\user\source\repos\Timer\TimerRealization\bin\Debug\TimerLogicDelegate.pdb
