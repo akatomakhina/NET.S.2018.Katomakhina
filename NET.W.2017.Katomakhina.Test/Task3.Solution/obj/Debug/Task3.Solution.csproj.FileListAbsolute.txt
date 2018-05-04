@@ -8,3 +8,4 @@ E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task3.Soluti
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task3.Solution\obj\Debug\Task3.Solution.csproj.CoreCompileInputs.cache
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task3.Solution\obj\Debug\Task3.Solution.dll
 E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task3.Solution\obj\Debug\Task3.Solution.pdb
+E:\.NET.Training\NET.S.2018.Katomakhina\NET.W.2017.Katomakhina.Test\Task3.Solution\obj\Debug\Task3.Solution.csprojResolveAssemblyReference.cache
